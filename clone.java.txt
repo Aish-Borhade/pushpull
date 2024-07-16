@@ -5,6 +5,8 @@ public void clone()
 int a=12;
 int b=2;
 System.out.println("clone the data")
+c= a+b
+System.out.println(c)
 }
 
 }
