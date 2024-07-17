@@ -1,5 +1,5 @@
 public class Clone{
-
+public static void main(String args[]){
 public void clone()
 {
 int a=12;
@@ -8,5 +8,6 @@ System.out.println("clone the data")
 c= a+b
 System.out.println(c)
 }
-
+}
+}
 }
